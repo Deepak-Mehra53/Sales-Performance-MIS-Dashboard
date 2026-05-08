@@ -71,9 +71,6 @@ The project focuses on transforming raw sales data into meaningful business insi
 
 # 📷 Dashboard Preview
 
-> Add your dashboard screenshots here
 
-Example:
 
-```md
-![Dashboard Screenshot](screenshots/dashboard.png)
+![Dashboard Screenshot](Sales-MIS-Report.png)
